@@ -1,0 +1,5 @@
+﻿Example Food Chain
+                                         Platforms
+								 Africa                Austrailia 
+Abstract		Carnivore        Lion                   Dingo
+Products	    Herbivore        Zebra                  kangaroo
